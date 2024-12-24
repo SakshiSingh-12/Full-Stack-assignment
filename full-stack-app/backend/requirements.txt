@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+unstructured.io
+langchain
+elasticsearch
+redis
+boto3  # For AWS S3 interaction.
+python-multipart  # For file uploads.
+
